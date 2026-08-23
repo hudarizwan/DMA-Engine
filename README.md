@@ -11,9 +11,8 @@ This repository contains the RTL design of a simple AXI-based DMA engine (memory
 ## Simulation and Waveforms
 To simulate this design, you can use any standard Verilog simulator (e.g., ModelSim, Vivado Simulator, or Icarus Verilog). The testbench includes a `vcd` dump which can be visualized using tools like GTKWave.
 
-### DMA Transfer Waveforms:
-![Waveform 1](waveform_1.png)
-![Waveform 2](waveform_2.png)
+### DMA Transfer Waveform:
+![DMA FSM Waveform Testbench](DMA_FSM_Waveform_Testbench.png)
 
 ## Important Note
 The provided source code is for educational evaluation. Code is expected to be pushed to the provided GitHub repository for final submission.
